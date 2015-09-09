@@ -1,2 +1,2 @@
 # URAP_Machine_Learning
-A collection of scripts for text analysis and image processing
+A collection of my scripts for scraping, text analysis and image processing
